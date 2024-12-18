@@ -142,8 +142,9 @@
                 android:paddingStart="10dp"
                 android:id="@+id/passwordField"/>
 
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/signUpButton"
+                android:textStyle="bold"
                 android:layout_width="325dp"
                 android:layout_height="48dp"
                 app:layout_constraintLeft_toLeftOf="parent"
