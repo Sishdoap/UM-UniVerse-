@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UM_UniVerse</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="sign_in"><u>Sign in</u></string>
+</resources>
